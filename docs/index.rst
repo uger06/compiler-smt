@@ -26,3 +26,10 @@ BPU-SDK 包含以下功能优势：
 
    usage
    installation
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Quickstart
+
+   quickstart/demo
