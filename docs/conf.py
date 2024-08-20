@@ -38,8 +38,8 @@ extensions = [
   'sphinx_autodoc_typehints',
 #   'myst_nb',
 #   'matplotlib.sphinxext.plot_directive',
-#   'sphinx_thebe',
-#   'sphinx_design'
+  # 'sphinx_thebe',
+  'sphinx_design'
 #   'sphinx-mathjax-offline',
 ]
 
@@ -65,7 +65,7 @@ exclude_patterns = ['_build']
 
 
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_book_theme'
 html_copy_source = True
 # html_show_sourcelink = True
 html_sourcelink_suffix = ""
