@@ -12,7 +12,7 @@ build:
 # Set the requirements required to build the docs
 python:
   install:
-    - requirements: requirements-doc.txt
+    - requirements: docs/requirements-doc.txt
 
 sphinx:
   configuration: docs/conf.py
